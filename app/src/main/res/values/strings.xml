@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home1_1Month6</string>
+    <string name="inputText">Введите текст</string>
+    <string name="btn_goNextActivity">Перейти дальше</string>
+    <string name="firstAcr">Первое активити</string>
+    <string name="secondAct">Второе активити</string>
+</resources>
